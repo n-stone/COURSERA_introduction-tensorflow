@@ -27,7 +27,7 @@
 - File 3 : Improve MNIST with Convolutions
 <br></br>
 
-## 4. Four-Week
+## 4. Fourth-Week
 - Training with ImageDataGenerator
     - Using the Google colab
     - options : Runtime(GPU/Standard)
