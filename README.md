@@ -1,7 +1,7 @@
 # COURSERA of DeepLearning A.I
 
 ## 1. First-Week
-- Housing Prices
+- Environment
     - Using the Google colab 
     - options : Runtime(GPU/Standard)
 <br></br>
@@ -9,7 +9,7 @@
 <br></br>
 
 ## 2. Second-Week
-- MNIST Classifier
+- Environment
     - Using the Google colab 
     - options : Runtime(GPU/Standard)
 <br></br>
@@ -18,7 +18,7 @@
 <br></br>
 
 ## 3. Third-Week
-- Improve MNIST with Convolution
+- Environment
     - Using the Google colab 
     - options : Runtime(GPU/Standard)
 <br></br>
@@ -28,7 +28,7 @@
 <br></br>
 
 ## 4. Fourth-Week
-- Training with ImageDataGenerator
+- Environment
     - Using the Google colab
     - options : Runtime(GPU/Standard)
 <br></br>
